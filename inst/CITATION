@@ -4,11 +4,12 @@ citEntry(header      = paste('To cite package', sQuote('finiteruinprob'), 'in pu
          author      = personList(person('Riccardo', 'Gatto'),
                                   person('Benjamin', 'Baumgartner')),
          journal     = 'Methodology and Computing in Applied Probability',
-         volume      = NA_integer_,
-         number      = NA_integer_,
-         year        = 2014L,
-         pages       = NA_character_,
-         textVersion = 'Gatto, R. and Baumgartner, B. (2014)  Saddlepoint approximations
+         volume      = 18L,
+         number      = 1L,
+         year        = 2016L,
+         pages       = '217--235',
+         doi         = '10.1007/s11009-014-9412-9',
+         textVersion = 'Gatto, R. and Baumgartner, B. (2016)  Saddlepoint approximations
                         to the probability of ruin in finite time for the compound Poisson
                         risk process perturbed by diffusion.  Methodology and Computing in
-                        Applied Probability TBA(TBA), pp. 1-19.')
+                        Applied Probability 18(1), pp. 217-235.')

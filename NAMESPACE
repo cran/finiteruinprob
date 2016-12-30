@@ -2,6 +2,9 @@ import(stats)
 import(numDeriv)
 import(sdprisk)
 
+importFrom('methods', 'is')
+importFrom('utils', 'tail')
+
 export(rriskproc)
 export(ruinprob.finite.dsim)
 export(ruinprob.finite.imps)

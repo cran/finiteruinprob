@@ -29,10 +29,10 @@
 }
 
 \references{
-Gatto, R. and Baumgartner, B. (to appear, in revision)  \emph{Saddlepoint
+Gatto, R. and Baumgartner, B. (2016)  \emph{Saddlepoint
     approximations to the probability of ruin in finite time for the compound
     Poisson risk process perturbed by diffusion}. Methodology and Computing in
-    Applied Probability \bold{TBA}(TBA), pp. 1--19.
+    Applied Probability \bold{18}(1), pp. 217\if{latex}{-}-235.
 }
 
 %\examples{
